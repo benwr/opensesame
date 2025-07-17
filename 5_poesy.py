@@ -36,7 +36,7 @@ by_rhyme: defaultdict[tuple[tuple[str, ...], int], set[tuple[str, ...]]] = defau
 by_pron = dict()
 
 bad_words = set([
-    "an", "he", "she", "than", "too", "that", "re", "ca",
+    "an", "he", "she", "than", "too", "that", "re", "ca", "de", "eh", "da",
 ] + list("abcdefghijklmnopqrstuvwxyz"))
 
 sometimes_weak = set([
@@ -49,11 +49,12 @@ sometimes_weak = set([
     "must", "shall", "should", "was", "where", "were", "whose",
     "will", "would", "these", "those", "all", "some", "any",
     "while", "on", "its", "so", "also", "is", "own", "which",
-    "nor", "our", "their"
+    "nor", "our", "their", "such", "when", "ere", "well", "get",
+    "got",
 ])
 
 stronger_than_preceding = set([
-    "free", "made", "thy",
+    "free", "made",
 ])
 
 wordlist: set[str] = set()
@@ -105,7 +106,7 @@ trochee_count = len(trochees)
 dactyl_count = len(dactyls)
 
 with open("all_bigrams.txt") as f:
-    for i, line in enumerate(sorted(list(f)[4_000_000:], key=lambda x: len(x))):
+    for i, line in enumerate(sorted(list(f)[3_000_000:], key=lambda x: len(x))):
         word1, word2 = line.strip().split()
         if word1 in sometimes_weak or word1 in bad_words or word2 in bad_words or word2 in stronger_than_preceding:
             continue

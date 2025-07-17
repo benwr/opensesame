@@ -2046,7 +2046,6 @@ awarding/recording
 awarding/rewarding
 awe/blah
 awe/bra
-awe/da
 awe/ha
 awe/ma
 awe/nah
@@ -2636,6 +2635,7 @@ balmy/commie
 balmy/mommy
 balmy/tommy
 bambinos/casinos
+bambinos/neutrinos
 ban/anne
 ban/can
 ban/chan
@@ -2659,6 +2659,7 @@ ban/tan
 ban/van
 ban/zahn
 banality/fatality
+banality/plurality
 banality/venality
 banana/arcana
 banana/cabana
@@ -2867,6 +2868,7 @@ banning/planning
 banning/scanning
 banning/spanning
 banning/tanning
+bannister/canister
 bannon/canon
 bannon/shannon
 bans/cans
@@ -5270,7 +5272,6 @@ blading/trading
 blading/wading
 blah/awe
 blah/bra
-blah/da
 blah/ha
 blah/ma
 blah/nah
@@ -7948,7 +7949,6 @@ boyz/poise
 boyz/toys
 bra/awe
 bra/blah
-bra/da
 bra/ha
 bra/ma
 bra/nah
@@ -8308,6 +8308,7 @@ branding/handing
 branding/landing
 branding/sanding
 branding/standing
+branding/stranding
 brands/glands
 brands/grands
 brands/hands
@@ -11293,6 +11294,7 @@ caning/staining
 caning/straining
 caning/training
 caning/waning
+canister/bannister
 canker/banker
 canker/hanker
 canker/ranker
@@ -11984,6 +11986,7 @@ caulking/balking
 caulking/chalking
 caulking/gawking
 caulking/hawking
+caulking/squawking
 caulking/stalking
 caulking/talking
 caulking/walking
@@ -12490,6 +12493,7 @@ chalking/balking
 chalking/caulking
 chalking/gawking
 chalking/hawking
+chalking/squawking
 chalking/stalking
 chalking/talking
 chalking/walking
@@ -12720,6 +12724,8 @@ charter/martyr
 charter/smarter
 charter/starter
 charter/tartar
+chartered/bartered
+chartered/martyred
 charters/garters
 charters/martyrs
 charters/starters
@@ -20502,17 +20508,6 @@ czechs/tex
 czechs/treks
 czechs/vex
 czechs/wrecks
-da/awe
-da/blah
-da/bra
-da/ha
-da/ma
-da/nah
-da/pa
-da/qua
-da/raw
-da/shah
-da/spa
 dabbing/gabbing
 dabbing/grabbing
 dabbing/jabbing
@@ -29554,6 +29549,7 @@ fat/tat
 fat/vat
 fatal/natal
 fatality/banality
+fatality/plurality
 fatality/venality
 fate/bait
 fate/crate
@@ -41629,7 +41625,6 @@ gyration/vocation
 ha/awe
 ha/blah
 ha/bra
-ha/da
 ha/ma
 ha/nah
 ha/pa
@@ -55239,7 +55234,6 @@ lyric/pyrrhic
 ma/awe
 ma/blah
 ma/bra
-ma/da
 ma/ha
 ma/nah
 ma/pa
@@ -60461,7 +60455,6 @@ nags/wags
 nah/awe
 nah/blah
 nah/bra
-nah/da
 nah/ha
 nah/ma
 nah/pa
@@ -61416,6 +61409,7 @@ neutrino/delfino
 neutrino/latino
 neutrino/merino
 neutrino/moreno
+neutrinos/bambinos
 neutrinos/casinos
 nevada/armada
 nevada/granada
@@ -63743,7 +63737,6 @@ oz/was
 pa/awe
 pa/blah
 pa/bra
-pa/da
 pa/ha
 pa/ma
 pa/nah
@@ -68474,6 +68467,9 @@ plunking/junking
 plural/mural
 plural/neural
 plural/rural
+plurality/banality
+plurality/fatality
+plurality/venality
 plurals/murals
 plus/buss
 plus/cuss
@@ -71450,7 +71446,6 @@ pyrrhic/lyric
 qua/awe
 qua/blah
 qua/bra
-qua/da
 qua/ha
 qua/ma
 qua/nah
@@ -73327,7 +73322,6 @@ ravioli/guacamole
 raw/awe
 raw/blah
 raw/bra
-raw/da
 raw/ha
 raw/ma
 raw/nah
@@ -77869,6 +77863,7 @@ scald/sprawled
 scald/stalled
 scald/walled
 scalding/balding
+scalding/spaulding
 scale/balle
 scale/braille
 scale/dale
@@ -80890,7 +80885,6 @@ shags/wags
 shah/awe
 shah/blah
 shah/bra
-shah/da
 shah/ma
 shah/nah
 shah/pa
@@ -89670,7 +89664,6 @@ sows/woes
 spa/awe
 spa/blah
 spa/bra
-spa/da
 spa/ha
 spa/ma
 spa/nah
@@ -90199,6 +90192,7 @@ spatters/platters
 spatters/shatters
 spatters/tatters
 spaulding/balding
+spaulding/scalding
 spawn/bonn
 spawn/don
 spawn/han
@@ -92686,8 +92680,11 @@ squawk/stalk
 squawk/talk
 squawk/walk
 squawking/balking
+squawking/caulking
+squawking/chalking
 squawking/gawking
 squawking/hawking
+squawking/stalking
 squawking/talking
 squawking/walking
 squawks/balks
@@ -93293,6 +93290,7 @@ stalking/caulking
 stalking/chalking
 stalking/gawking
 stalking/hawking
+stalking/squawking
 stalking/walking
 stalks/balks
 stalks/chalks
@@ -95655,6 +95653,7 @@ stranded/candid
 stranded/handed
 stranded/landed
 stranding/banding
+stranding/branding
 stranding/handing
 stranding/landing
 strands/bands
@@ -108068,6 +108067,7 @@ venal/penal
 venal/renal
 venality/banality
 venality/fatality
+venality/plurality
 vendetta/loretta
 vendetta/panetta
 vending/bending
