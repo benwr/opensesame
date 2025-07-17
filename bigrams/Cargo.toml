@@ -1,0 +1,12 @@
+[package]
+name = "bigrams"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "bigrams"
+path = "src/main.rs"
+
+[dependencies]
+rayon = "1.8"
+flate2 = "1.0"
